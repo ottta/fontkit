@@ -82,5 +82,8 @@
       "brfs",
       "browserify-optional"
     ]
-  }
+  },
+  "browser": {
+    "fs": false
+  },
 }
